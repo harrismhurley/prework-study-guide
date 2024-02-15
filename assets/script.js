@@ -1,0 +1,19 @@
+const topic = ['HTML', 'CSS', 'Git', 'JavaScript'];
+
+for (let x=0; x<topic.length; x++) {
+    console.log(topic[x]);
+}
+
+/*
+if (topic === 'HTML') {
+    console.log("let's study HTML!");
+} else if (topic === 'CSS') {
+    console.log("let's study CSS!");
+} else if (topic === 'Git') {
+    console.log("let's study Git!");
+} else if (topic === 'JavaScript') {
+    console.log("let's study JavaScript!");
+} else {
+    console.log('please try again!');
+}
+*/
